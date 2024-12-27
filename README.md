@@ -27,6 +27,6 @@
 <li>JSX syntax</li>
 <li>React components</li>
 <li>Implement designs from Figma</li>
-<li>Deploy to Netlify (USED GITHUB PAGES TO AUTO DEPLY INSTEAD)</li>
+<li>Deploy to Netlify (USED GITHUB PAGES TO AUTO DEPLOY INSTEAD)</li>
 </ul>
 </article>
